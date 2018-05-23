@@ -28676,6 +28676,9 @@ var o7z = {
                     },
                     queueSegment: function(a) {
                         return p().eDa(a);
+                    },
+                    getCropAspectRatio:function(){
+                        return C().rJa();
                     }
                 };
                 B = ma.get(R.Av).Np(!1, "5.0008.544.011", Qd, ec, y);
